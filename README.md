@@ -1,4 +1,3 @@
-<a href=kaagaaz.github.io>
 <img width="736" height="350" alt="1000005223" src="https://github.com/user-attachments/assets/af5eb637-c7c7-45a4-ba4c-8c999ecb545d" />
 
 
