@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="1000059473" src="https://github.com/user-attachments/assets/989fb7be-6b08-455a-91de-eec51689d2f0" /> https://kaagaaz.github.io/
+<img width="1672" height="941" alt="1000059473" src="https://github.com/user-attachments/assets/989fb7be-6b08-455a-91de-eec51689d2f0" /> 
 
 
 
