@@ -1,4 +1,4 @@
-[![Banner](Banner.png)](https://kaagaaz.github.io/)
+[![Banner](banners.png)](https://kaagaaz.github.io/)
 
 
 
