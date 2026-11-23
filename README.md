@@ -1,4 +1,4 @@
-[![Banner](banner3.sgv)](https://kaagaaz.vercel.app/)
+[![Banner](banner3.svg)](https://kaagaaz.vercel.app/)
 
 
 
