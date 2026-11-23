@@ -1,4 +1,4 @@
-<img width="3000" height="960" alt="1000075342" src="https://github.com/user-attachments/assets/07390c41-c036-4021-b7c2-a82c122e7bc3" />
+[![Banner](banner3.sgv)](https://kaagaaz.vercel.app/)
 
 
 
